@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/), who encourages interdisciplinary research in the lab. 
+I am a 4th-year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/), who fosters an environment of interdisciplinary research in our lab. 
 I was a research intern at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Dr. Xin Sun](https://www.sunxin.name/) and [Dr. Hao Tan](https://www.cs.unc.edu/~airsplay/).
-Before coming to SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on a protein volume classification project with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
+Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on a protein volume classification project with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
-My research is driven by my passion for advancing the state of Generative AI through Reinforcement Learning (RL), as the field of RL has shown a promising path to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
-Having employed RL finetuning on diffusion models for text-to-3D during the internship at Adobe, I am exploring RL's application on more models (e.g. transformers and state space models) and tasks (e.g. text-to-video and autonomous agents) that can be formulated as sequential decision-making problems.
+My research is driven by my passion for advancing the state of Generative AI through Reinforcement Learning (RL). 
+This field has shown promising paths to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
+Having applied RL finetuning on diffusion models for text-to-3D generation during my internship at Adobe, I am exploring RL's application on more models (e.g. transformers and state space models) and tasks (e.g. text-to-video and autonomous agents) that can be formulated as sequential decision-making problems.
 
 -----
 
 News
 ======
-I am actively looking for 2024 research internship opportunities!
+I am actively seeking research internship opportunities for 2024!
 
 **2023/07/17** My first publication got accepted to [ICCV 2023](https://iccv2023.thecvf.com/)! 
 
@@ -44,7 +45,7 @@ Publications
 
 Misc
 =====
-I love training my "Catificial" Intelligence/CatGPT🐈 agent, **Purrari**, with supervised learning (instruction finetuning) and RL (treats as positive reward). 
-She has mastered many tricks and learned to understand many words in English and Mandarin. 
-She is currently learning to speak through pet talking buttons. 
-For lots of cat pics and videos, please go to [her instagram](https://www.instagram.com/purrari_0310/), which is maintained by her mom who also took my profile picture on this page.
+I love training my "Catificial" Intelligence/CatGPT🐈 agent, **Purrari**, using a blend of supervised learning (instruction finetuning) and RL (treats as positive reward). 
+She understood many words in both English and Mandarin and has mastered numerous tricks. 
+Currently, she is advancing her communication skills through pet talking buttons. 
+For more cute cat pics and videos, please visit [her instagram](https://www.instagram.com/purrari_0310/), lovingly maintained by her mom.
