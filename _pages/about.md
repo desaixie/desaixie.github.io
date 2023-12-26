@@ -31,10 +31,22 @@ I am actively seeking research internship opportunities for 2024!
 
 Publications
 ======
+
+[//]: # (![image-left]&#40;./../images/figure_teaser.png&#41;{: .align-left style="width: 20%;"})
+<div style="clear: both;">
+  <img src="./../images/figure_teaser.png" alt="Teaser image for Carve3D" style="width: 25%; float: left; margin-right: 10px; margin-bottom: 20px;" />
+</div>
+
 **Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**  
 **Desai Xie**, Jiahao Li, Hao Tan, Xin Sun, Zhixin Shu, Yi Zhou, Sai Bi, Sören Pirk, Arie E. Kaufman  
 *Preprint (Under Review)*  
 [Project](https://desaixie.github.io/carve-3d/){: .btn}  [Paper](https://arxiv.org/abs/2312.13980){: .btn}  [Code (Coming Soon)](){: .btn}
+
+<div style="clear: both;">
+  <img src="./../images/gait_teaser.png" alt="Teaser image for GAIT" style="width: 25%; float: left; margin-right: 10px;" />
+</div>
+
+[//]: # (![image-left]&#40;./../images/gait_teaser.png&#41;{: .align-left style="width: 20%;"})
 
 **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning**  
 **Desai Xie**, Ping Hu, Xin Sun, Sören Pirk, Jianming Zhang, Radomír Měch, Arie E. Kaufman  
