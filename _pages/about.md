@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Desai Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi! 
+I am Desai Xie (谢德赛).
 I am a 4th-year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/), who fosters an environment of interdisciplinary research in our lab. 
 I was a research intern at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Dr. Xin Sun](https://www.sunxin.name/) and [Dr. Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on a protein volume classification project with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
