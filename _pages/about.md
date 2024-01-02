@@ -16,7 +16,7 @@ Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh
 
 My research is driven by my passion for advancing the state of Generative AI through Reinforcement Learning (RL). 
 This field has shown promising paths to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
-Having applied RL finetuning on diffusion models for text-to-3D generation during my internship at Adobe, I am exploring RL's application on more models (e.g. transformers and state space models) and tasks (e.g. text-to-video and autonomous agents) that can be formulated as sequential decision-making problems.
+Having applied RL finetuning on diffusion models for text-to-3D generation during my internship at Adobe, I am exploring RL's application on more models (e.g. transformers and state space models) and tasks (e.g. text-to-video and AI agents) that can be formulated as sequential decision-making problems.
 
 -----
 
@@ -34,7 +34,6 @@ I am actively seeking research internship opportunities for 2024!
 Publications
 ======
 
-[//]: # (![image-left]&#40;./../images/figure_teaser.png&#41;{: .align-left style="width: 20%;"})
 <div style="clear: both;">
   <img src="./../images/figure_teaser.png" alt="Teaser image for Carve3D" style="width: 25%; float: left; margin-right: 10px; margin-bottom: 20px;" />
 </div>
@@ -42,13 +41,11 @@ Publications
 **Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**  
 **Desai Xie**, Jiahao Li, Hao Tan, Xin Sun, Zhixin Shu, Yi Zhou, Sai Bi, Sören Pirk, Arie E. Kaufman  
 *Preprint (Under Review)*  
-[Project](https://desaixie.github.io/carve-3d/){: .btn}  [Paper](https://arxiv.org/abs/2312.13980){: .btn}  [Code (Coming Soon)](){: .btn}
+[Project](https://desaixie.github.io/carve-3d/){: .btn}  [Paper](https://arxiv.org/abs/2312.13980){: .btn}  [Code](https://github.com/desaixie/carve3d){: .btn}
 
 <div style="clear: both;">
   <img src="./../images/gait_teaser.png" alt="Teaser image for GAIT" style="width: 25%; float: left; margin-right: 10px;" />
 </div>
-
-[//]: # (![image-left]&#40;./../images/gait_teaser.png&#41;{: .align-left style="width: 20%;"})
 
 **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning**  
 **Desai Xie**, Ping Hu, Xin Sun, Sören Pirk, Jianming Zhang, Radomír Měch, Arie E. Kaufman  
