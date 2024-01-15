@@ -16,7 +16,7 @@ Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh
 
 My research is driven by my passion for advancing the state of Generative AI through Reinforcement Learning (RL). 
 This field has shown promising paths to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
-Having applied RL finetuning on diffusion models for text-to-3D generation during my internship at Adobe, I am exploring RL's application on more models (e.g. transformers and state space models) and tasks (e.g. text-to-video and AI agents) that can be formulated as sequential decision-making problems.
+Currently, I am interested in using RL to finetune large, pre-trained generative models (e.g. my Adobe research internship project [Carve3D](https://desaixie.github.io/carve-3d/)); pre-training provides great generalization and RL finetuning can unlock the full potential of the model by generating high-quality synthetic data from the pre-trained model itself.
 
 -----
 
