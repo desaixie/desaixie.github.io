@@ -11,18 +11,20 @@ redirect_from:
 Hi! 
 I am Desai Xie (谢德赛).
 I am a 4th-year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/), who fosters an environment of interdisciplinary research in our lab. 
-I was a research intern at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Dr. Xin Sun](https://www.sunxin.name/) and [Dr. Hao Tan](https://www.cs.unc.edu/~airsplay/).
+I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Dr. Xin Sun](https://www.sunxin.name/) and [Dr. Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on a protein volume classification project with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
 My research is driven by my passion for advancing the state of Generative AI through Reinforcement Learning (RL). 
-This field has shown promising paths to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
+Research in RL has shown promising paths to superhuman intelligence (e.g. [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) and [OpenAI Five](https://openai.com/research/openai-five-defeats-dota-2-world-champions)).
 Currently, I am interested in using RL to finetune large, pre-trained generative models (e.g. my Adobe research internship project [Carve3D](https://desaixie.github.io/carve-3d/)); pre-training provides great generalization and RL finetuning can unlock the full potential of the model by generating high-quality synthetic data from the pre-trained model itself.
 
 -----
 
 News
 ======
-I am actively seeking research internship opportunities for 2024!
+I am actively seeking research internship opportunities in 2024, with flexible starting dates and durations.
+
+**2024/02/26** Excited to share that the paper from my Adobe internship, Carve3D, was accepted to [CVPR 2024](https://cvpr.thecvf.com/)! 
 
 **2023/07/17** My first publication got accepted to [ICCV 2023](https://iccv2023.thecvf.com/)! 
 
@@ -40,7 +42,7 @@ Publications
 
 **Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**  
 **Desai Xie**, Jiahao Li, Hao Tan, Xin Sun, Zhixin Shu, Yi Zhou, Sai Bi, Sören Pirk, Arie E. Kaufman  
-*Preprint (Under Review)*  
+*Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
 [Project](https://desaixie.github.io/carve-3d/){: .btn}  [Paper](https://arxiv.org/abs/2312.13980){: .btn}  [Code](https://github.com/desaixie/carve3d){: .btn}
 
 <div style="clear: both;">
