@@ -24,7 +24,7 @@ News
 ======
 I am actively seeking research internship opportunities in 2024, with flexible starting dates and durations.
 
-**2024/02/26** Excited to share that the paper from my Adobe internship, Carve3D, was accepted to [CVPR 2024](https://cvpr.thecvf.com/)! 
+**2024/02/26** Excited to share that the paper from my Adobe internship, Carve3D, was accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)! 
 
 **2023/07/17** My first publication got accepted to [ICCV 2023](https://iccv2023.thecvf.com/)! 
 
