@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! 
 I am Desai Xie (谢德赛).
-I am a 4th-year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
+I am a 5th-year CS PhD student at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
 I am interning in the Video AI group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
 I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on a protein volume classification project with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
