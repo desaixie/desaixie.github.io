@@ -15,7 +15,7 @@ I interned in the Video AI group at [Adobe Research](https://research.adobe.com/
 I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
-I am broadly interested in generative models, large-scale training, and Reinforcment Learning (RL).
+I am broadly interested in visual generative models, large-scale training, and Reinforcment Learning (RL).
 In my research, I often take a **scalability** perspective (e.g. [the Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)): 
 - [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) introduces a new noise schedule and sampling algorithm that seamlessly model long videos with regular context length; otherwise, long videos are computationally infeasible to diffusion modeling directly.
 - [Carve3D](https://desaixie.github.io/carve-3d/) uses RL with feedback from 3D reconstruction to circumvent real 3D data
