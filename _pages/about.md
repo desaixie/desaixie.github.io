@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hi there! 
-I am Desai Xie (谢德赛).
 I am a 5th-year CS PhD candidate at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-I interned in the Video AI group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
+Currently, I am a student researcher at [ByteDance Seed](https://team.doubao.com/en/), working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and [Yichun Shi](https://seasonsh.github.io/).
+Previously, I interned in the Video AI group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
 I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
@@ -25,24 +25,24 @@ In my research, I often take a **scalability** perspective (e.g. [the Bitter Les
 
 News
 ======
-I am seeking intern and full-time research opportunities in 2025, with flexible starting dates and durations.
-Please reach out if you have any openings!
 
-**2024/10/10** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv! Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time!
+**03/24/2025** Started internship at [ByteDance Seed](https://team.doubao.com/en/), working on video generation.
 
-**2024/09/25** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted at [NeurIPS 2024](https://neurips.cc/)! 
+**10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv! Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time!
 
-**2024/06/17** Attended [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) in Seattle, WA. I presented [Carve3D](https://desaixie.github.io/carve-3d/) and was glad to see [LRM-Zero](https://desaixie.github.io/lrm-zero/) being featured in two workshop invited talks ([3DFM](https://3dfm.github.io/) and [SyntaGen](https://syntagen.github.io/)) by [Hao Tan](https://www.cs.unc.edu/~airsplay/) and [Nathan Carr](https://research.adobe.com/person/nathan-carr/)!
+**09/25/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted to [NeurIPS 2024](https://neurips.cc/)! 
 
-**2024/06/13** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is released on arXiv! First time working on large-scale pre-training and data generation, and it was a blast!
+**06/17/2024** Attended [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) in Seattle, WA. I presented [Carve3D](https://desaixie.github.io/carve-3d/) and was glad to see [LRM-Zero](https://desaixie.github.io/lrm-zero/) being featured in two workshop invited talks ([3DFM](https://3dfm.github.io/) and [SyntaGen](https://syntagen.github.io/)) by [Hao Tan](https://www.cs.unc.edu/~airsplay/) and [Nathan Carr](https://research.adobe.com/person/nathan-carr/)!
 
-**2024/05/28** Started my second internship at [Adobe Research](https://research.adobe.com/), this time working on video generation!
+**06/13/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is released on arXiv! First time working on large-scale pre-training and data generation, and it was a blast!
 
-**2024/02/26** Excited to share that [Carve3D](https://desaixie.github.io/carve-3d/) is accepted at [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)! 
+**05/28/2024** Started my second internship at [Adobe Research](https://research.adobe.com/), this time working on video generation!
 
-**2023/07/17** [GAIT](https://desaixie.github.io/gait-rl/) is accepted at [ICCV 2023](https://iccv2023.thecvf.com/)! 
+**02/26/2024** [Carve3D](https://desaixie.github.io/carve-3d/) is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)! 
 
-**2023/06/19** Started my internship at [Adobe Research](https://research.adobe.com/)!
+**07/17/2023** [GAIT](https://desaixie.github.io/gait-rl/) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/)! 
+
+**06/19/2023** Started my internship at [Adobe Research](https://research.adobe.com/)!
 
 
 -----
