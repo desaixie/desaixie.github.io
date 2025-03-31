@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Desai Xie"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Desai Xie"
 description              : &description "personal description"
