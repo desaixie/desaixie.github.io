@@ -18,7 +18,7 @@ Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh
 I am broadly interested in visual generative models, large-scale training, and Reinforcment Learning (RL).
 In my research, I often take a **scalability** perspective (e.g. [the Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)): 
 - [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) introduces a new noise schedule and sampling algorithm that seamlessly model long videos with regular context length; otherwise, long videos are computationally infeasible to diffusion modeling directly.
-- [Carve3D](https://desaixie.github.io/carve-3d/) uses RL with feedback from 3D reconstruction to circumvent real 3D data
+- [Carve3D](https://desaixie.github.io/carve-3d/) uses RL with feedback from 3D reconstruction to circumvent using real 3D data.
 - [LRM-Zero](https://desaixie.github.io/lrm-zero/) introduces large-scale procedural 3D data synthesis to address 3D data scarcity.
 
 -----
@@ -28,21 +28,21 @@ News
 
 **03/24/2025** Started internship at [ByteDance Seed](https://team.doubao.com/en/), working on video generation.
 
-**10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv! Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time!
+**10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv. Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time. 
 
-**09/25/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted to [NeurIPS 2024](https://neurips.cc/)! 
+**09/25/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted to [NeurIPS 2024](https://neurips.cc/). 
 
-**06/17/2024** Attended [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) in Seattle, WA. I presented [Carve3D](https://desaixie.github.io/carve-3d/) and was glad to see [LRM-Zero](https://desaixie.github.io/lrm-zero/) being featured in two workshop invited talks ([3DFM](https://3dfm.github.io/) and [SyntaGen](https://syntagen.github.io/)) by [Hao Tan](https://www.cs.unc.edu/~airsplay/) and [Nathan Carr](https://research.adobe.com/person/nathan-carr/)!
+**06/17/2024** Attended [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) in Seattle, WA. I presented [Carve3D](https://desaixie.github.io/carve-3d/) and was glad to see [LRM-Zero](https://desaixie.github.io/lrm-zero/) being featured in two workshop invited talks ([3DFM](https://3dfm.github.io/) and [SyntaGen](https://syntagen.github.io/)) by [Hao Tan](https://www.cs.unc.edu/~airsplay/) and [Nathan Carr](https://research.adobe.com/person/nathan-carr/). 
 
-**06/13/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is released on arXiv! First time working on large-scale pre-training and data generation, and it was a blast!
+**06/13/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is released on arXiv. First time working on large-scale pre-training and data generation, and it was a blast!
 
-**05/28/2024** Started my second internship at [Adobe Research](https://research.adobe.com/), this time working on video generation!
+**05/28/2024** Started my second internship at [Adobe Research](https://research.adobe.com/), this time working on video generation.
 
-**02/26/2024** [Carve3D](https://desaixie.github.io/carve-3d/) is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)! 
+**02/26/2024** [Carve3D](https://desaixie.github.io/carve-3d/) is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024). 
 
-**07/17/2023** [GAIT](https://desaixie.github.io/gait-rl/) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/)! 
+**07/17/2023** [GAIT](https://desaixie.github.io/gait-rl/) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/). 
 
-**06/19/2023** Started my internship at [Adobe Research](https://research.adobe.com/)!
+**06/19/2023** Started my internship at [Adobe Research](https://research.adobe.com/). 
 
 
 -----
@@ -55,7 +55,7 @@ Publications
 
 **Progressive Autoregressive Video Diffusion Models**  
 **Desai Xie**, Zhan Xu, Yicong Hong, Hao Tan, Difan Liu, Feng Liu, Arie Kaufman, Yang Zhou  
-*arXiv 2024*  
+*CVPR 2025 CVEU Workshop*  
 [Project](https://desaixie.github.io/pa-vdm/){: .btn}  [Paper](https://arxiv.org/abs/2410.08151){: .btn}  [Code](https://github.com/desaixie/pa_vdm){: .btn}
 
 <div style="clear: both;">
@@ -93,5 +93,5 @@ A fun fact about my name is that De (德) and Sai (赛) means demoncracy and sci
 
 I love training my "Catificial" Intelligence/CatGPT🐈 agent, **Purrari**, using a blend of supervised learning (instruction finetuning) and RL (treats as positive reward). 
 She understands many words in both English and Mandarin and has mastered numerous tricks. 
-Currently, she is advancing her communication skills through pet talking buttons. 
+Currently, she is advancing her communication skills through talking buttons. 
 For more cute cat pics and videos, please visit [her instagram](https://www.instagram.com/purrari_0310/), lovingly maintained by her mom.
