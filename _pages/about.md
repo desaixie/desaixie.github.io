@@ -28,6 +28,8 @@ News
 
 **03/24/2025** Started internship at [ByteDance Seed](https://team.doubao.com/en/), working on video generation.
 
+**12/10/2024** Attended [NeurIPS 2024](https://neurips.cc/Conferences/2024) in Vancouver, BC, Canada. I enjoyed many great social events, hosted by Google, Meta, Luma, World Labs, Genmo, and Playground.
+
 **10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv. Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time. 
 
 **09/25/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted to [NeurIPS 2024](https://neurips.cc/). 
