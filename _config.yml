@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Desai Xie"
 title_separator          : "-"
-name                     : &name "Desai Xie 谢德赛"
+name                     : &name "Desai Xie"
 description              : &description "personal description"
 url                      : https://desaixie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Desai Xie"
+  name             : "Desai Xie 谢德赛"
   avatar           : "desai_purrari.jpg"
   bio              : "CS PhD candidate at SBU. Visual generative models, RL."
   location         : "San Jose, CA"
