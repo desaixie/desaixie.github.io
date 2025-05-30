@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! 
 I am a 5th-year CS PhD candidate at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-Currently, I am a student researcher at [ByteDance Seed](https://team.doubao.com/en/), working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and [Yichun Shi](https://seasonsh.github.io/).
+Currently, I am a student researcher at [ByteDance Seed](https://team.doubao.com/en/), working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
 Previously, I interned in the Video AI group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
 I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
