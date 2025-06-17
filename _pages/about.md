@@ -9,28 +9,29 @@ redirect_from:
 ---
 
 Hi there! 
-I am a 5th-year CS PhD candidate at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-Currently, I am a student researcher at [ByteDance Seed](https://team.doubao.com/en/), working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
-Previously, I interned in the Video AI group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
-I was a research intern in the 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
-Prior to joining SBU, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate CS education, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
+I am a final year CS PhD candidate at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
+Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergrad, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
+
+I have done internships at
+- [ByteDance Seed](https://team.doubao.com/en/) in Spring 2025, working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
+- Video group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
+- 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 
 I am broadly interested in visual generative models, large-scale training, and Reinforcment Learning (RL).
-In my research, I often take a **scalability** perspective (e.g. [the Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)): 
-- [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) introduces a new noise schedule and sampling algorithm that seamlessly model long videos with regular context length; otherwise, long videos are computationally infeasible to diffusion modeling directly.
-- [Carve3D](https://desaixie.github.io/carve-3d/) uses RL with feedback from 3D reconstruction to circumvent using real 3D data.
-- [LRM-Zero](https://desaixie.github.io/lrm-zero/) introduces large-scale procedural 3D data synthesis to address 3D data scarcity.
+My research spans key components of foundation model training, including pre-training ([LRM-Zero](https://desaixie.github.io/lrm-zero/)), RL finetuning ([Carve3D](https://desaixie.github.io/carve-3d/)), and long sequence modeling ([Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/)).
 
 -----
 
 News
 ======
 
+**06/15/2025** Attended [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025) in Nashville, TN. 
+
 **03/24/2025** Started internship at [ByteDance Seed](https://team.doubao.com/en/), working on video generation.
 
-**12/10/2024** Attended [NeurIPS 2024](https://neurips.cc/Conferences/2024) in Vancouver, BC, Canada. I enjoyed many great social events, hosted by Google, Meta, Luma, World Labs, Genmo, and Playground.
+**12/10/2024** Attended [NeurIPS 2024](https://neurips.cc/Conferences/2024) in Vancouver, BC, Canada.
 
-**10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv. Proud to build the first video generation model that can autoregressively generate 60-second videos without quality degradation over time. 
+**10/10/2024** [Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/) is released on arXiv. Proud to build the first general-purpose video diffusion model for 60-second long video generation. 
 
 **09/25/2024** [LRM-Zero](https://desaixie.github.io/lrm-zero/) is accepted to [NeurIPS 2024](https://neurips.cc/). 
 
