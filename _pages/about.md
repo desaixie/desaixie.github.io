@@ -17,8 +17,9 @@ I have done internships at
 - Video group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
 - 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 
-I am broadly interested in visual generative models, large-scale training, and Reinforcment Learning (RL).
-My research spans key components of foundation model training, including pre-training ([LRM-Zero](https://desaixie.github.io/lrm-zero/)), RL finetuning ([Carve3D](https://desaixie.github.io/carve-3d/)), and long sequence modeling ([Progressive Autoregressive Video Diffusion Models](https://desaixie.github.io/pa-vdm/)).
+I am broadly interested in visual generative models (3D, video), large-scale training, and Reinforcment Learning (RL).
+My works advance Foundation Model capabilities (data, training signals, long context) across lifecycle stages (pre-training, post-training, inference). 
+<img style="width: 65%;" alt="capabilty_x_lifecycle overview" src="https://github.com/user-attachments/assets/43f452e4-86c2-4b82-88e1-52bd1815532b" />
 
 -----
 
