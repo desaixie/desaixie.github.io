@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Hi there! 
-I am a final year CS PhD candidate at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergrad, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
+I completed my CS Ph.D. (Dec 2025) at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
+Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate B.S. in CS, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
 I have done internships at
 - [ByteDance Seed](https://team.doubao.com/en/) in Spring 2025, working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
@@ -18,7 +18,7 @@ I have done internships at
 - 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
 
 I am broadly interested in visual generative models (3D, video), large-scale training, and Reinforcment Learning (RL).
-My works advance Foundation Model capabilities (data, training signals, long context) across lifecycle stages (pre-training, post-training, inference). 
+My works advance Foundation Model capabilities (data, rewards, long sequence modeling) across lifecycle stages (pre-training, post-training, inference). 
 <img style="width: 65%;" alt="capabilty_x_lifecycle overview" src="https://github.com/user-attachments/assets/43f452e4-86c2-4b82-88e1-52bd1815532b" />
 
 -----
