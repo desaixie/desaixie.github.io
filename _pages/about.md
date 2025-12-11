@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! 
 I completed my CS Ph.D. (Dec 2025) at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my undergraduate B.S. in CS, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
+Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my CS B.S. (May 2020), where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
 I have done internships at
 - [ByteDance Seed](https://team.doubao.com/en/) in Spring 2025, working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
