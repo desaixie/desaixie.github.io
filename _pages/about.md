@@ -9,22 +9,20 @@ redirect_from:
 ---
 
 Hi there! 
-I completed my CS Ph.D. (Dec 2025) at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
-Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my CS B.S. (May 2020), where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
-
-I have done internships at
-- [ByteDance Seed](https://team.doubao.com/en/) in Spring 2025, working on video generation with [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/), [Yichun Shi](https://seasonsh.github.io/), and [Ceyuan Yang](https://ceyuan.me/).
-- Video group at [Adobe Research](https://research.adobe.com/) in Summer 2024, working on video generation with [Yang Zhou](https://yzhou359.github.io/) and [Prof. Feng Liu](https://pages.cs.wisc.edu/~fliu/).
-- 3D group at [Adobe Research](https://research.adobe.com/) in Summer 2023, working with [Xin Sun](https://www.sunxin.name/) and [Hao Tan](https://www.cs.unc.edu/~airsplay/).
-
-I am broadly interested in visual generative models (3D, video), large-scale training, and Reinforcment Learning (RL).
-My works advance Foundation Model capabilities (data, rewards, long sequence modeling) across lifecycle stages (pre-training, post-training, inference). 
-<img style="width: 65%;" alt="capabilty_x_lifecycle overview" src="https://github.com/user-attachments/assets/43f452e4-86c2-4b82-88e1-52bd1815532b" />
+I am a AI Scientist at Roblox, working on Video World Models ([blog post](https://about.roblox.com/newsroom/2026/04/roblox-reality-hybrid-architecture-democratizing-photorealistic-multiplayer-gaming)).
+I completed my PhD at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/). 
+During my PhD, I interned at [Adobe Research](https://research.adobe.com/) and [ByteDance Seed](https://team.doubao.com/en/), where I worked on Autoregressive Video Diffusion, and Pre-training and RL for 3D Foundation Models. 
+I was fortunate to be mentored by [Hao Tan](https://www.cs.unc.edu/~airsplay/), [Xin Sun](https://www.sunxin.name/), and [Yang Zhou](https://yzhou359.github.io/) during my internships.
+Before that, I spent 3 years at [Lehigh University](https://www2.lehigh.edu/) for my Bachelor's, where I worked on protein volume classification with [Prof. Brian Chen](https://www.cse.lehigh.edu/~chen/).
 
 -----
 
 News
 ======
+
+**05/05/2026** Joined Roblox.
+
+**12/03/2025** Defended my PhD.
 
 **06/15/2025** Attended [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025) in Nashville, TN. 
 
